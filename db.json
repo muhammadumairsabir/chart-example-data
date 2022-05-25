@@ -1,0 +1,14 @@
+{
+  "chartdata": [
+    { "label": 1, "housecurrent": "150", "cpcurrent": "100" },
+    { "label": 2, "housecurrent": "250", "cpcurrent": "300" },
+    { "label": 3, "housecurrent": "450", "cpcurrent": "500" },
+    { "label": 4, "housecurrent": "350", "cpcurrent": "1020" },
+    { "label": 5, "housecurrent": "150", "cpcurrent": "1000" },
+    { "label": 6, "housecurrent": "650", "cpcurrent": "1010" },
+    { "label": 6, "housecurrent": "500", "cpcurrent": "900" },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
