@@ -44,12 +44,7 @@
     "data": [
       {
         "name:" "TestCpo_S1",
-        "chargingGroupNames": [
-          "TestCpo_S1_G1",
-          "TestCpo_S1_G2",
-          "TestCpo_S1_G3",
-          "TestCpo",
-        ],
+        "chargingGroupNames": [ "TestCpo_S1_G1", "TestCpo_S1_G2", "TestCpo_S1_G3",  "TestCpo" ],
         "error": null,
       },
       {
