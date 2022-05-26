@@ -40,10 +40,21 @@
     { "label": "Nov", "housecurrent": "150", "cpcurrent": "3000" },
     { "label": "Dec", "housecurrent": "1650", "cpcurrent": "2010" }
   ],
-  "stations": [
-     { "name": "TestCpo_S1", "chargingGroupNames": [ "TestCpo_S1_G1", "TestCpo_S1_G2", "TestCpo_S1_G3",  "TestCpo" ], "error": null },
-     { "name": "TestCpo_S2", "chargingGroupNames": ["TestCpo_S2_G3", "TestCpo_S2_G1", "TestCpo_S2_G2"], "error": null },
-  ],
+  "stations": {
+    "data": [
+      {
+        "name": "TestCpo_S1",
+        "chargingGroupNames": ["TestCpo_S1_G1","TestCpo_S1_G2","TestCpo_S1_G3","TestCpo"],
+        "error": null
+      },
+      {
+        "name": "TestCpo_S2",
+        "chargingGroupNames": ["TestCpo_S2_G3", "TestCpo_S2_G1", "TestCpo_S2_G2"],
+        "error": null
+      }
+    ],
+    "error": null
+  },
   "profile": {
     "name": "typicode"
   }
