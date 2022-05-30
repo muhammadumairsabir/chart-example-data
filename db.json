@@ -25,7 +25,7 @@
     { "label": "Sun", "housecurrent": "12", "cpcurrent": "24" }
   ],
   "chartdatamonthly": [
-    { "label": "Jan", "housecurrent": "55", "cpcurrent": "45" },
+    { "label": "Jan", "housecurrent": "25", "cpcurrent": "45" },
     { "label": "Feb", "housecurrent": "34", "cpcurrent": "40" },
     { "label": "Marz", "housecurrent": "42", "cpcurrent": "35" },
     { "label": "April", "housecurrent": "40", "cpcurrent": "39" },
@@ -35,8 +35,8 @@
     { "label": "Aug", "housecurrent": "15", "cpcurrent": "20" },
     { "label": "Sep", "housecurrent": "20", "cpcurrent": "20" },
     { "label": "Oct", "housecurrent": "35", "cpcurrent": "30" },
-    { "label": "Nov", "housecurrent": "40", "cpcurrent": "30" },
-    { "label": "Dec", "housecurrent": "40", "cpcurrent": "30" }
+    { "label": "Nov", "housecurrent": "25", "cpcurrent": "40" },
+    { "label": "Dec", "housecurrent": "30", "cpcurrent": "35" }
   ],
   "stations": {
     "data": [
