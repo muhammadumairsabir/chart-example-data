@@ -1,11 +1,11 @@
 {
   "chartdataToday": [
-    { "label": "01:00", "housecurrent": "60", "cpcurrent": "50" },
-    { "label": "02:00", "housecurrent": "50", "cpcurrent": "40" },
+    { "label": "01:00", "housecurrent": "20", "cpcurrent": "30" },
+    { "label": "02:00", "housecurrent": "30", "cpcurrent": "40" },
     { "label": "03:00", "housecurrent": "34", "cpcurrent": "30" },
     { "label": "04:00", "housecurrent": "42", "cpcurrent": "20" },
-    { "label": "05:00", "housecurrent": "40", "cpcurrent": "10" },
-    { "label": "06:00", "housecurrent": "36", "cpcurrent": "10" },
+    { "label": "05:00", "housecurrent": "40", "cpcurrent": "25" },
+    { "label": "06:00", "housecurrent": "36", "cpcurrent": "35" },
     { "label": "07:00", "housecurrent": "12", "cpcurrent": "30" },
     { "label": "08:00", "housecurrent": "45", "cpcurrent": "35" },
     { "label": "09:00", "housecurrent": "15", "cpcurrent": "25" },
