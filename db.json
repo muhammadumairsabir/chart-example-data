@@ -32,8 +32,8 @@
     { "label": "May", "housecurrent": "36", "cpcurrent": "30" },
     { "label": "Juni", "housecurrent": "32", "cpcurrent": "24" },
     { "label": "July", "housecurrent": "45", "cpcurrent": "30" },
-    { "label": "Aug", "housecurrent": "25", "cpcurrent": "20" },
-    { "label": "Sep", "housecurrent": "30", "cpcurrent": "20" },
+    { "label": "Aug", "housecurrent": "65", "cpcurrent": "50" },
+    { "label": "Sep", "housecurrent": "50", "cpcurrent": "40" },
     { "label": "Oct", "housecurrent": "35", "cpcurrent": "30" },
     { "label": "Nov", "housecurrent": "50", "cpcurrent": "40" },
     { "label": "Dec", "housecurrent": "45", "cpcurrent": "35" }
